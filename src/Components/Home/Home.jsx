@@ -1,11 +1,15 @@
 import React from 'react'
 import './Home.css'
 import Benefits from '../Benefits/Benefits'
+import Price from '../Pricing/Price'
+import Join from '../Join/Join'
+import Footer from '../Footer/Footer'
 
 export default function Home() {
     return (
         <React.Fragment>
-            <div className='text-center m-5 px-5 pt-5 pb-0'>
+            <Join/>
+            <div className='text-center m-5 px-5 pb-0'>
                 <h1 className='font-weight-bold text-secondary'>Hassle-free Insurance Claim Services</h1>
                 <h4 className='font-italic'>Manage all your policies and future claims in a simple way</h4>
             </div>
@@ -30,6 +34,8 @@ export default function Home() {
                 </div>
             </div>
             <Benefits/>
+            <Price/>
+            <Footer/>
         </React.Fragment>
     )
 }
