@@ -2,8 +2,8 @@ import React from 'react'
 
 export default function Benefits() {
     return (
-        <div style={{ backgroundColor: '#bb392a' }}>
-            <h1 className='text-center pt-5'>BENEFITS</h1>
+        <div style={{ backgroundColor: '#bb392a' }} className='mt-5'>
+            <h1 className='text-center text-light pt-5'>BENEFITS</h1>
             <div className='row'>
                 <div className='p-5 col-lg-4 col-md-6 col-sm-6 col-12 mt-md-4 mt-lg-4 mt-sm-4 mt-4'>
                     <div className="card" style={{ borderRadius: '0 30px 0 30px', backgroundColor: '#222', height: '470px' }}>
