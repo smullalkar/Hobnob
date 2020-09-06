@@ -5,7 +5,7 @@ export default function Benefits() {
         <div style={{ backgroundColor: '#bb392a' }} className='mt-5'>
             <h1 className='text-center text-light pt-5'>BENEFITS</h1>
             <div className='row'>
-                <div className='p-5 col-lg-4 col-md-6 col-sm-6 col-12 mt-md-4 mt-lg-4 mt-sm-4 mt-4'>
+                <div className='p-lg-5 p-md-0 p-sm-3 px-4 col-lg-4 offset-md-2 offset-0 offset-lg-0 offset-sm-0 col-md-8 col-sm-6 col-12 mt-md-4 mt-lg-4 mt-sm-4 mt-4'>
                     <div className="card" style={{ borderRadius: '0 30px 0 30px', backgroundColor: '#222', height: '470px' }}>
                         <img src='/kyp.png' className="card-img-top" alt="img" style={{ borderRadius: '0 30px 0 0', height: '250px', width: '100%', backgroundSize: 'cover' }} />
                         <div className="card-body text-center text-light">
@@ -18,7 +18,7 @@ export default function Benefits() {
                         </div>
                     </div>
                 </div>
-                <div className='p-5 col-lg-4 col-md-6 col-sm-6 col-12 mt-md-4 mt-lg-4 mt-sm-4 mt-4'>
+                <div className='p-lg-5 p-md-0 p-sm-3 px-4 col-lg-4 offset-md-2 offset-0 offset-lg-0 offset-sm-0 col-md-8 col-sm-6 col-12 mt-md-4 mt-lg-4 mt-sm-4 mt-4'>
                     <div className="card" style={{ borderRadius: '0 30px 0 30px', backgroundColor: '#222', height: '470px' }}>
                         <img src='/benefits_reimbursement.png' className="card-img-top" alt="img" style={{ borderRadius: '0 30px 0 0', height: '250px', width: '100%', backgroundSize: 'cover' }} />
                         <div className="card-body text-center text-light">
@@ -28,7 +28,7 @@ export default function Benefits() {
                         </div>
                     </div>
                 </div>
-                <div className='p-5 col-lg-4 col-md-6 col-sm-6 col-12 mt-md-4 mt-lg-4 mt-sm-4 mt-4'>
+                <div className='p-lg-5 p-md-0 p-sm-3 px-4 col-lg-4 offset-md-2 offset-0 offset-lg-0 offset-sm-0 col-md-8 col-sm-6 col-12 mt-md-4 mt-lg-4 mt-sm-4 mt-4'>
                     <div className="card" style={{ borderRadius: '0 30px 0 30px', backgroundColor: '#222', height: '470px' }}>
                         <img src='/benefits_cashless.png' className="card-img-top" alt="img" style={{ borderRadius: '0 30px 0 0', height: '250px', width: '100%', backgroundSize: 'cover' }} />
                         <div className="card-body text-center text-light">
@@ -41,7 +41,7 @@ export default function Benefits() {
                         </div>
                     </div>
                 </div>
-                <div className='px-5 pb-5 pt-0 col-lg-4 col-md-6 col-sm-6 col-12 mt-md-4 mt-lg-4 mt-sm-4 mt-4'>
+                <div className='p-lg-5 p-md-0 p-sm-3 px-4 pb-lg-5 pt-0 col-lg-4 offset-md-2 offset-0 offset-lg-0 offset-sm-0 col-md-8 col-sm-6 col-12 mt-md-4 mt-lg-4 mt-sm-4 mt-4'>
                     <div className="card" style={{ borderRadius: '0 30px 0 30px', backgroundColor: '#222', height: '200px' }}>
                         <div className="card-body text-center text-light">
                             <h5 className="card-title font-weight-bold">Doorstep Claim Service</h5>
@@ -50,7 +50,7 @@ export default function Benefits() {
                         </div>
                     </div>
                 </div>
-                <div className='px-5 pb-5 pt-0 col-lg-4 col-md-6 col-sm-6 col-12 mt-md-4 mt-lg-4 mt-sm-4 mt-4'>
+                <div className='p-lg-5 p-md-0 p-sm-3 px-4 pb-lg-5 pt-0 col-lg-4 offset-md-2 offset-0 offset-lg-0 offset-sm-0 col-md-8 col-sm-6 col-12 mt-md-4 mt-lg-4 mt-sm-4 mt-4'>
                     <div className="card" style={{ borderRadius: '0 30px 0 30px', backgroundColor: '#222', height: '200px' }}>
                         <div className="card-body text-center text-light">
                             <h5 className="card-title font-weight-bold">Digitization of I-Records</h5>
@@ -59,7 +59,7 @@ export default function Benefits() {
                         </div>
                     </div>
                 </div>
-                <div className='px-5 pb-5 pt-0 col-lg-4 col-md-6 col-sm-6 col-12 mt-md-4 mt-lg-4 mt-sm-4 mt-4'>
+                <div className='p-lg-5 p-md-0 pb-md-4 p-sm-3 px-4 pb-lg-5 pb-4 pt-0 col-lg-4 offset-md-2 offset-0 offset-lg-0 offset-sm-0 col-md-8 col-sm-6 col-12 mt-md-4 mt-lg-4 mt-sm-4 mt-4'>
                     <div className="card" style={{ borderRadius: '0 30px 0 30px', backgroundColor: '#222', height: '200px' }}>
                         <div className="card-body text-center text-light">
                             <h5 className="card-title font-weight-bold">Optimization of Claims</h5>
